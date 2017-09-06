@@ -1,0 +1,45 @@
+# Metadata
+Name             "Blonde and single"
+"Batch number"   64
+Style            "Trappist Single"
+Brewer           "Mikael Mårtensson"
+Brewery		 "Hinkbryggeriet"
+Date             "2017-04-19"
+
+# Fermentables
+# Name                 Amount (g)   Added ([boil|mash],default=mash)
+"Pilsner Malt"         2000   		
+
+# Hops
+# Name                     Alpha Acid (%)   Amount (g)   Time (min)
+"East Kent Goldings"       4.3              20           60
+"Hallertauer Mittelfruh"   2.9		    18           20
+"Hallertauer Mittelfruh"   2.9		    10           5
+"Hallertauer Mittelfruh"   2.9		    10           0
+
+# Mash
+# Name		       Amount Water (l)   Target Temperature (C)   Time (min)
+"Saccharification"     5      	     	   65	  	      	   60
+"Mash out"	       0      	     	   76	  	      	   10
+"Batch sparge"	       9.5		   76			   0
+"Boil" 		       0		   100			   60
+
+# Yeast
+# Name                   Temperature (C)   Time (days)
+"WLP500 Monastery Ale"   21	     	   3
+
+# Notes
+"Här är lite anteckningar 
+som fortsätter över två rader.
+
+Med nytt stycke också.
+"
+
+# Observations
+PreboilVolume      11.6
+PostboilVolume     10.6
+FermenterVolume    10.0
+PreboilSG          1.040
+OG                 1.045
+FG                 1.012
+
