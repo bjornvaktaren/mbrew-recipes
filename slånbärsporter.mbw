@@ -7,18 +7,18 @@ Brewery   "Stabby Brewery"
 Date      "2017-09-xx"
 
 # Fermentables
-# Name                              Amount (g)
-"Pilsner Malt"                      1700 
-"Chocolate Malt (Carafa I Special)" 150 
-"Black Malt"                        100 
-"Caramel Malt (Caraaroma)"          100 
-"Caramel Malt (Caramünch I)"        100 
+# Name                                Amount (g)
+"Pilsner Malt"                        2000 
+"Chocolate Malt (Carafa I Special)"   150 
+"Black Malt"                          100 
+"Caramel Malt (Caraaroma)"            100 
+"Caramel Malt (Caramünch I)"          100 
 
 # Hops
-# Name                     Alpha Acid (%)   Amount (g)   Time (min)
-"East Kent Goldings"       4.3              20           60
-"Hallertauer Mittelfruh"   2.9              18           15
-# vill ha 20-25 IBU
+# Name     Alpha Acid (%)   Amount (g)   Time (min)
+"Fuggle"   5.8              20	   	 60
+"Saaz"     2.2              10           20
+"Saaz"     2.2              10           10
 
 # Mash
 # Name                 Amount Water (l)   Target Temperature (C)   Time (min)
@@ -29,7 +29,7 @@ Date      "2017-09-xx"
 
 # Yeast
 # Name                   Temperature (C)   Time (days)
-"Lallemand Nottingham"   21                3
+"WLP005 British Ale"     21                3
 
 # Notes
 "0.5 kg slånbär kokas och läggs i efter avslutat jäsning.

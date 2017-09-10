@@ -1,0 +1,43 @@
+# Metadata
+Name      "EKG Pale ale"
+Batch     68
+Style     "American Pale Ale"
+Brewer    "Mikael Mårtensson"
+Brewery   "Stabby Brewery"
+Date      "2017-09-10"
+
+# Fermentables
+# Name                          Amount (g)
+"Golden Promise Pale Ale Malt"  1700
+"Caramel Malt (Caramünch II)"   50
+
+# Hops
+# Name                 Alpha Acid (%)   Amount (g)   Time (min)
+"East Kent Goldings"   4.7              10           60
+"East Kent Goldings"   4.7              18           20
+"East Kent Goldings"   4.7              20           10
+"East Kent Goldings"   4.7              20           0
+"East Kent Goldings"   4.7              10           0
+
+# Mash
+# Name                 Amount Water (l)   Target Temperature (C)   Time (min)
+"Saccharification"     5                  65                       60
+"Mash out"             0                  76                       10
+"Batch sparge"         9                  76                       0
+"Boil"                 0                  100                      60
+
+# Yeast
+# Name                   Temperature (C)   Time (days)
+"Lallemand Nottingham"   15                3
+
+# Notes
+"Vattenbehandling: 
+0,25 g/l CaSO4, 0,04 g/l CaCl2, 0,08 g/l MgSO4, 0,1 g/l CaCO3.
+"
+
+# Observations
+PreboilVolume      12.3
+PostboilVolume     11.0
+OG                 1.042
+FG                 1.012
+

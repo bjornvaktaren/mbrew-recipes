@@ -7,29 +7,30 @@ Brewery   "Stabby Brewery"
 Date      "2017-09-xx"
 
 # Fermentables
-# Name          Amount (g)
-"Pilsner Malt"  1000 
-"Weinermalt"    1000 
+# Name                          Amount (g)
+"Golden Promise Pale Ale Malt"  1300
+"Weinermalt"                    500
+"Caramel Malt (Caramünch I)"    50
 
 # Hops
-# Name                     Alpha Acid (%)   Amount (g)   Time (min)
-"East Kent Goldings"       4.3              20           60
-"Hallertauer Mittelfruh"   2.9              18           15
-"Pors"                     0.0              15           10
+# Name     Alpha Acid (%)   Amount (g)   Time (min)
+"Fuggle"   5.8              20           60
+"Pors"     0.0              15           10
 
 # Mash
 # Name                 Amount Water (l)   Target Temperature (C)   Time (min)
 "Saccharification"     5                  65                       60
 "Mash out"             0                  76                       10
-"Batch sparge"         9.5                76                       0
+"Batch sparge"         9                  76                       0
 "Boil"                 0                  100                      60
 
 # Yeast
 # Name                   Temperature (C)   Time (days)
-"Lallemand Nottingham"   15                3
+"WLP005 British Ale"     21                3
 
 # Notes
-"Mmmmm pors."
+"Mmmmm pors.
+"
 
 # Observations
 # PreboilVolume      11.6
@@ -38,4 +39,3 @@ Date      "2017-09-xx"
 # PreboilSG          1.040
 # OG                 1.045
 # FG                 1.012
-
