@@ -12,12 +12,12 @@ Date      "2017-09-10"
 "Caramel Malt (Caramünch II)"   50
 
 # Hops
-# Name                 Alpha Acid (%)   Amount (g)   Time (min)
+# Name                 Alpha Acid (%)   Amount (g)   Time (min)   Note
 "East Kent Goldings"   4.7              10           60
 "East Kent Goldings"   4.7              18           20
 "East Kent Goldings"   4.7              20           10
 "East Kent Goldings"   4.7              20           0
-"East Kent Goldings"   4.7              10           0
+"East Kent Goldings"   4.7              10           0            "Torrhumling"
 
 # Mash
 # Name                 Amount Water (l)   Target Temperature (C)   Time (min)
@@ -28,7 +28,7 @@ Date      "2017-09-10"
 
 # Yeast
 # Name                   Temperature (C)   Time (days)
-"Lallemand Nottingham"   15                3
+"Lallemand Nottingham"   17                3
 
 # Notes
 "Vattenbehandling: 
