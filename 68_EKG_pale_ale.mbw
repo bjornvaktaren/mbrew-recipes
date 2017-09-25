@@ -29,15 +29,17 @@ Date      "2017-09-10"
 # Yeast
 # Name                   Temperature (C)   Time (days)
 "Lallemand Nottingham"   17                3
+"Lallemand Nottingham"   21                11
 
 # Notes
 "Vattenbehandling: 
 0,25 g/l CaSO4, 0,04 g/l CaCl2, 0,08 g/l MgSO4, 0,1 g/l CaCO3.
+Sista humlegivan som torrhumle i 3 dagar.
 "
 
 # Observations
 PreboilVolume      12.3
 PostboilVolume     11.0
 OG                 1.042
-FG                 1.012
+FG                 1.009
 
