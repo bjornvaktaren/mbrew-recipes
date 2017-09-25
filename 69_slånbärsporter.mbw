@@ -12,13 +12,13 @@ Date      "2017-09-xx"
 "Chocolate Malt (Carafa I Special)"   150 
 "Black Malt"                          100 
 "Caramel Malt (Caraaroma)"            100 
-"Caramel Malt (Caramünch I)"          100 
+"Caramel Malt (Caramünch II)"         100 
 
 # Hops
 # Name     Alpha Acid (%)   Amount (g)   Time (min)
 "Fuggle"   5.8              20	   	 60
 "Saaz"     2.2              10           20
-"Saaz"     2.2              10           10
+"Saaz"     2.2              10           5
 
 # Mash
 # Name                 Amount Water (l)   Target Temperature (C)   Time (min)
@@ -32,14 +32,12 @@ Date      "2017-09-xx"
 "WLP005 British Ale"     21                3
 
 # Notes
-"0.5 kg slånbär kokas och läggs i efter avslutat jäsning.
+"Salter: 0,1 g/l MgSO4; 0,05 g/l NaCl; 0,32 g/l CaCO3
+0.5 kg slånbär kokas och läggs i efter avslutat jäsning.
 "
 
 # Observations
-# PreboilVolume      11.6
-# PostboilVolume     10.6
-# FermenterVolume    10.0
-# PreboilSG          1.040
-# OG                 1.045
-# FG                 1.012
+PreboilVolume      12.0
+OG                 1.058
+FG                 1.012
 
