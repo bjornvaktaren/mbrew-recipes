@@ -8,20 +8,22 @@ Date      "2017-09-xx"
 
 # Fermentables
 # Name                          Amount (g)
-"Golden Promise Pale Ale Malt"  1300
+"Golden Promise Pale Ale Malt"  1200
 "Weinermalt"                    500
-"Caramel Malt (Caramünch I)"    50
+"Pilsner Malt"                  300
+"Caramel Malt (Caramünch II)"   50
+"Black Malt"                    15
 
 # Hops
 # Name     Alpha Acid (%)   Amount (g)   Time (min)
-"Fuggle"   5.8              20           60
+"Fuggle"   5.8              25           60
 "Pors"     0.0              15           10
 
 # Mash
 # Name                 Amount Water (l)   Target Temperature (C)   Time (min)
 "Saccharification"     5                  65                       60
 "Mash out"             0                  76                       10
-"Batch sparge"         9                  76                       0
+"Batch sparge"         10                 76                       0
 "Boil"                 0                  100                      60
 
 # Yeast
