@@ -28,16 +28,14 @@ Date      "2017-09-xx"
 
 # Yeast
 # Name                   Temperature (C)   Time (days)
-"WLP005 British Ale"     21                3
+"WLP005 British Ale"     16                3
 
 # Notes
-"Mmmmm pors.
+"0,25 g/l CaSO4, 0,04 g/l CaCl2, 0,08 g/l MgSO4, 0,1 g/l CaCO3.
 "
 
 # Observations
-# PreboilVolume      11.6
-# PostboilVolume     10.6
-# FermenterVolume    10.0
-# PreboilSG          1.040
-# OG                 1.045
-# FG                 1.012
+PreboilVolume      12.5
+PostboilVolume     11.2
+OG                 1.049
+FG                 1.012

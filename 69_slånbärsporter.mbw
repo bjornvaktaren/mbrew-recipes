@@ -29,11 +29,12 @@ Date      "2017-09-xx"
 
 # Yeast
 # Name                   Temperature (C)   Time (days)
-"WLP005 British Ale"     21                3
+"WLP005 British Ale"     17                4
+"WLP005 British Ale"     21                10
 
 # Notes
 "Salter: 0,1 g/l MgSO4; 0,05 g/l NaCl; 0,32 g/l CaCO3
-0.5 kg slånbär kokas och läggs i efter avslutat jäsning.
+0.8 kg slånbär kokades i 10 min tillsattes i efter 1 vecka och fick stå en vecka.
 "
 
 # Observations
