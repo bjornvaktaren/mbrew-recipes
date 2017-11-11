@@ -1,10 +1,10 @@
 # Metadata
 Name      "Slånbärsporter"
-Batch     XX
+Batch     69
 Style     "Fruktöl"
 Brewer    "Mikael Mårtensson"
 Brewery   "Stabby Brewery"
-Date      "2017-09-xx"
+Date      "2017-09-23"
 
 # Fermentables
 # Name                                Amount (g)
@@ -34,11 +34,11 @@ Date      "2017-09-xx"
 
 # Notes
 "Salter: 0,1 g/l MgSO4; 0,05 g/l NaCl; 0,32 g/l CaCO3
-0.8 kg slånbär kokades i 10 min tillsattes i efter 1 vecka och fick stå en vecka.
+0.8 kg slånbär kokades i 10 min, tillsattes efter 1 vecka och fick stå en vecka. Borde kanske ha mosat slånbären lite. Tillsatte 6 gram per liter socker för kolsyrejäsning.
 "
 
 # Observations
 PreboilVolume      12.0
 OG                 1.058
-FG                 1.012
+FG                 1.014
 
