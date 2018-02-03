@@ -1,22 +1,23 @@
 # Metadata
-Name      "Lemondrop Hefeweizen"
+Name      "Lemondrop APA"
 Batch     71
-Style     "Weissbier"
+Style     "APA"
 Brewer    "Mikael Mårtensson"
 Brewery   "Stabby Brewery"
 Date      "2018-02-03"
 
 # Fermentables
 # Name                          Amount (g)
-"Pilsner Malt"                  1000
-"Vetemalt"                      1000
+"Pilsner Malt"                  2000
+"Caramel Malt (Caramünch II)"   50
 
 # Hops
 # Name       Alpha Acid (%)   Amount (g)   Time (min)
-"Lemondrop"  6.0              10           15
-"Lemondrop"  6.0              15           10
-"Lemondrop"  6.0              20           5
-"Lemondrop"  6.0              25           0
+"Lemondrop"  5.6              10           15
+"Lemondrop"  5.6              20           10
+"Lemondrop"  5.6              25           5
+"Lemondrop"  5.6              30           0
+"Lemondrop"  5.6              15           0
 
 # Mash
 # Name                 Amount Water (l)   Target Temperature (C)   Time (min)
@@ -27,7 +28,7 @@ Date      "2018-02-03"
 
 # Yeast
 # Name                   Temperature (C)   Time (days)
-"WLP380 Hefeweizen IV"   16                3
+"Lallemand Nottingham"   16                3
 
 # Notes
 "0,25 g/l CaSO4, 0,04 g/l CaCl2, 0,08 g/l MgSO4, 0,1 g/l CaCO3.
