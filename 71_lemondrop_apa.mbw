@@ -4,7 +4,7 @@ Batch     71
 Style     "APA"
 Brewer    "Mikael Mårtensson"
 Brewery   "Stabby Brewery"
-Date      "2018-02-03"
+Date      "2018-02-04"
 
 # Fermentables
 # Name                          Amount (g)
@@ -13,6 +13,7 @@ Date      "2018-02-03"
 
 # Hops
 # Name       Alpha Acid (%)   Amount (g)   Time (min)
+"Lemondrop"  5.6              5            30
 "Lemondrop"  5.6              10           15
 "Lemondrop"  5.6              20           10
 "Lemondrop"  5.6              25           5
@@ -28,15 +29,18 @@ Date      "2018-02-03"
 
 # Yeast
 # Name                   Temperature (C)   Time (days)
-"Lallemand Nottingham"   16                3
+"Lallemand Nottingham"   12                3
 
 # Notes
-"0,25 g/l CaSO4, 0,04 g/l CaCl2, 0,08 g/l MgSO4, 0,1 g/l CaCO3.
+"Råkade förväxla CaS04 med CaC03. Tillslut hade jag detta i mäsken: 0,20 g CaSO4, 0,60 g MgSO4, 1,25 g CaCO3. Inga salter i koket. Kokade upp med kokplatta men kokade sedan på spisen.
+
+Kylde ner till 22 C med kopparspiralen. Ställde ut i -5 C och kylde till 14 C (mätt med mitt nyinstallerade dykrör).
+
 Primade med 6 g socker per liter.
 "
 
 # Observations
-PreboilVolume      12.5
-PostboilVolume     11.2
-OG                 1.049
+PreboilVolume      12.1
+PostboilVolume     11.5
+OG                 1.054
 FG                 1.010
