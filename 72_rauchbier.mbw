@@ -1,0 +1,38 @@
+# Metadata
+Name      "Rauchbier"
+Batch     72
+Style     "Rauchbier"
+Brewer    "Mikael Mårtensson"
+Brewery   "Stabby Brewery"
+Date      "2018-02-18"
+
+# Fermentables
+# Name                          Amount (g)
+"Bokrökt kornmalt"              2200
+"Caramel Malt (Caramünch II)"   50
+"Black Malt"                    20
+
+# Hops
+# Name       Alpha Acid (%)   Amount (g)   Time (min)
+"Tettnanger" 4.2              50           60
+"Tettnanger" 4.2              20           2
+
+# Mash
+# Name                 Amount Water (l)   Target Temperature (C)   Time (min)
+"Saccharification"     5                  68                       60
+"Mash out"             0                  76                       10
+"Batch sparge"         10                 76                       0
+"Boil"                 0                  100                      60
+
+# Yeast
+# Name                   Temperature (C)   Time (days)
+"WLP830 German Lager"    12                8
+
+# Notes
+"30 IBU bitter hops"
+
+# Observations
+PreboilVolume      12.1
+PostboilVolume     11.5
+OG                 1.054
+FG                 1.010
