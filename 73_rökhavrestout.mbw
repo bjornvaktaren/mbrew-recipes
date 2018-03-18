@@ -1,0 +1,50 @@
+# Metadata
+Name      "Rökhavrestout"
+Batch     73
+Style     "Rökhavrestout"
+Brewer    "Mikael Mårtensson"
+Brewery   "Stabby Brewery"
+Date      "2018-03-04"
+Bottling  "2018-03-18"
+
+# Fermentables
+# Name                          Amount (g)
+"Pilsner Malt"                        650
+"Bokrökt kornmalt"                    700
+"Havre"                               200
+"Caramel Malt (Caraaroma)"            100
+"Caramel Malt (Caramünch II)"         100
+"Chocolate Malt (Carafa I Special)"   100
+"Black Malt"	       	   	      100
+
+# Hops
+# Name       Alpha Acid (%)   Amount (g)   Time (min)
+"Fuggle"     5.8              25           60
+"Tettnanger" 2.4              10           60
+"Tettnanger" 2.4              10           15
+"Tettnanger" 2.4              10           2
+
+# Yeast
+# Name                   Temperature (C)   Time (days)
+"Lallemand Nottingham"   12                8
+
+# Mash
+# Name                 Amount Water (l)   Target Temperature (C)   Time (min)
+"Saccharification"     5.0                68                       60
+"Mash out"             0                  76                       10
+"Batch sparge"         10.0               76                       0
+"Boil"                 0                  100                      60
+
+# Notes
+"Vattenbehandling: 0.03 g/l CaSO4, 0.10 g/l CaCl2, 0.06 g/l MgSO4.
+
+Kylde ner med vatten till 25 C och sedan med isvattenbad till 13 C. Spädde med 1.5 liter vatten för att få ner OG från 1.052 till 1.045.
+
+Primade med 6 gram socker per liter. 10.3 liter färdig öl.
+"
+
+# Observations
+PreboilVolume      11.9
+FermenterVolume    9.5
+OG                 1.045
+FG                 1.016

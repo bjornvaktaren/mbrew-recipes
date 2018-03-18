@@ -5,34 +5,45 @@ Style     "Rauchbier"
 Brewer    "Mikael Mårtensson"
 Brewery   "Stabby Brewery"
 Date      "2018-02-18"
+Bottling  "2018-03-18"
 
 # Fermentables
 # Name                          Amount (g)
 "Bokrökt kornmalt"              2200
-"Caramel Malt (Caramünch II)"   50
-"Black Malt"                    20
+"Caramel Malt (Caraaroma)"	50
+"Black Malt"                    22
 
 # Hops
 # Name       Alpha Acid (%)   Amount (g)   Time (min)
-"Tettnanger" 4.2              50           60
-"Tettnanger" 4.2              20           2
-
-# Mash
-# Name                 Amount Water (l)   Target Temperature (C)   Time (min)
-"Saccharification"     5                  68                       60
-"Mash out"             0                  76                       10
-"Batch sparge"         10                 76                       0
-"Boil"                 0                  100                      60
+"Fuggle"     5.8              30           60
+"Tettnanger" 2.4              20           2
 
 # Yeast
 # Name                   Temperature (C)   Time (days)
 "WLP830 German Lager"    12                8
+"WLP830 German Lager"    20                7
+
+# Mash
+# Name                 Amount Water (l)   Target Temperature (C)   Time (min)
+"Saccharification"     5.5                68                       60
+"Mash out"             0                  76                       10
+"Batch sparge"         9.7                76                       0
+"Boil"                 0                  100                      60
 
 # Notes
-"30 IBU bitter hops"
+"Vattenbehandling: 0.03 g/l CaSO4, 0.06 g/l CaCl2, 0.06 g/l MgSO4.
+
+Kylde ner med vatten till 20 C och sedan med isvattenbad till 11 C. Spädde med 1 liter vatten för att få ner OG från 1.059 till 1.054, då ökade temperaturen till 13 C eftersom jag inte kylde ner vattnet tillräckligt. Beräknat IBU blir nu 27.
+
+Efter 8 dagar vid 12 C hade det nästan slutat bubbla. Tog upp till 20 C och en lugn jäsning tog fart igen.
+
+Var redo att tappa upp efter två veckor, men den hade bara jäst ut till 1.017. Väntade två veckor till och den sjönk bara till 1.016 men jag tappa upp då ändå. Nästa gång gör förkultur!
+
+Primade med 6 gram socker per liter. 10 liter färdig öl.
+"
 
 # Observations
-PreboilVolume      12.1
-PostboilVolume     11.5
+PreboilVolume      12.5
+PostboilVolume     11.3
 OG                 1.054
-FG                 1.010
+FG                 1.016

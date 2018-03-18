@@ -30,19 +30,20 @@ Date      "2018-02-04"
 # Yeast
 # Name                   Temperature (C)   Time (days)
 "Lallemand Nottingham"   11                8
+"Lallemand Nottingham"   20                6
 
 # Notes
-"Råkade förväxla CaS04 med CaC03. Tillslut hade jag detta i mäsken: 0,20 g CaSO4, 0,60 g MgSO4, 1,25 g CaCO3. Inga salter i koket. Kokade upp med kokplatta men kokade sedan på spisen.
-
-Kylde ner till 22 C med kopparspiralen. Ställde ut i -5 C och kylde till 14 C (mätt med mitt nyinstallerade dykrör).
-
-15 g torrhumling tillsatt efter 11 dagar när jäskärlet togs upp till lägenheten.
-
-Primade med 6 g socker per liter.
+"
+\begin{itemize}
+\item Råkade förväxla CaSO$_4$ med CaC0$_3$. Tillslut hade jag detta i mäsken: 0,20 g CaSO$_4$, 0,60 g MgSO$_4$, 1,25 g CaCO$_3$. Inga salter i koket. Kokade upp med kokplatta men kokade sedan på spisen.
+\item Kylde ner till 22 C med kopparspiralen. Ställde ut i -5 C och kylde till 14 C (mätt med mitt nyinstallerade dykrör).
+\item 15 g torrhumling tillsatt efter 11 dagar när jäskärlet togs upp till lägenheten.
+\item Primade med 6 g socker per liter.
+\end{itemize}
 "
 
 # Observations
 PreboilVolume      12.1
 PostboilVolume     11.5
-OG                 1.054
-FG                 1.010
+OG                 1.053
+FG                 1.013
