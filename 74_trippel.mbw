@@ -1,0 +1,46 @@
+# Metadata
+Name      "Tripple"
+Batch     73
+Style     "Belgisk Tripple"
+Brewer    "Mikael Mårtensson"
+Brewery   "Stabby Brewery"
+Date      "2018-09-29"
+Bottling  "2018-10-12"
+
+# Fermentables
+# Name                          Amount (g)   Added
+"Crisp Best Ale Malt"                 2500
+"Mörkt kandisocker"                   50     
+"Strösocker"                          330    
+
+# Hops
+# Name       Alpha Acid (%)   Amount (g)   Time (min)
+"Tettnanger" 2.4              44           60
+"Saaz"       2.2              25           60
+"Saaz"       2.2              15           20
+"Saaz"       2.2              10           0
+
+
+# Yeast
+# Name                             Temperature (C)   Time (days)
+"WLP575 Belgian Style Ale Blend"   21                8
+
+# Mash
+# Name                 Amount Water (l)   Target Temperature (C)   Time (min)
+"Saccharification"     5.0                63                       60
+"Batch sparge"         10.0               73                       0
+"Boil"                 0                  100                      60
+
+# Notes
+"Vattenbehandling: 0.03 g/l CaSO4. Försökte få till Achels profil från Brew Like a Monk, men kom inte närmare.
+
+Siktade på 9,5 liter OG 1,074 men blev 10 liter OG 1,068. Kokplattan har blivit dålig. Den slår av även fast det inte kokar. Fick koka på spisen istället.
+
+Tappad på flaska 2018-10-12. Primade med 6 g socker per liter.
+"
+
+# Observations
+PreboilVolume      12.3
+FermenterVolume    10.0
+OG                 1.068
+FG                 1.008
