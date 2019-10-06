@@ -1,0 +1,42 @@
+# Metadata
+Name      "Ek- och slånbärsporter"
+Batch     76
+Style     "Porter/Fruktöl"
+Brewer    "Mikael Mårtensson"
+Brewery   "Hettemarkshuset"
+Date      "2019-10-05"
+
+# Fermentables
+# Name                                Amount (g)
+"Vinboden Pale Ale Malt"              1500 
+"Vinboden Dark Crystal"               500 
+"Rostat korn"                         20 
+"Chocolate Malt (Carafa I Special)"   60 
+
+# Hops
+# Name     Alpha Acid (%)   Amount (g)   Time (min)
+"Cascade"  6.2              30           60
+"Cascade"  6.2              30	   	 0
+
+# Mash
+# Name                 Amount Water (l)   Target Temperature (C)   Time (min)
+"Saccharification"     5                  65                       60
+"Mash out"             0                  76                       10
+"Batch sparge"         9.5                76                       0
+"Boil"                 0                  100                      60
+
+# Yeast
+# Name                             Temperature (C)   Time (days)
+"Mangrove Jack's Liberty Bell"     17                4
+
+# Notes
+"Ingen vattenbehandling. Kylde till 23 C. Den färdigkrossade malten från Vinboden i Enköping var alldeles för fint krossad och lakningen var jättejobbig.
+0.8 kg slånbär kokades i 10 min, tillsattes efter 1 vecka och fick stå en vecka. Borde kanske ha mosat slånbären lite. Tillsatte 6 gram per liter socker för kolsyrejäsning.
+"
+
+# Observations
+PreboilVolume      12.1
+PostboilVolume     11.0
+OG                 1.057
+FG                 1.014
+

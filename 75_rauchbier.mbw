@@ -1,0 +1,41 @@
+# Metadata
+Name      "Rauchbier"
+Batch     72
+Style     "Rauchbier"
+Brewer    "Mikael Mårtensson"
+Brewery   "Hettemarkshuset"
+Date      "2019-02-09"
+Bottling  "2019-02-23"
+
+# Fermentables
+# Name                          Amount (g)
+"Bokrökt kornmalt"              2000
+"Caramel Malt (Caraaroma)"	55
+"Black Malt"                    25
+
+# Hops
+# Name       Alpha Acid (%)   Amount (g)   Time (min)
+"Cascade"    6.2              30           60
+"Cascade"    6.2              10           0
+
+# Yeast
+# Name                   Temperature (C)   Time (days)
+"Fermentis Safale S-04"  21                1
+"Fermentis Safale S-04"  23                2
+
+# Mash
+# Name                 Amount Water (l)   Target Temperature (C)   Time (min)
+"Saccharification"     5                  66                       60
+"Batch sparge"         9.5                76                       0
+"Boil"                 0                  100                      60
+
+# Notes
+"Vattenbehandling: ingen
+
+Primade med 6 gram socker per liter. 9,6 liter färdig öl.
+"
+
+# Observations
+PostboilVolume     11.0
+OG                 1.048
+FG                 1.010
