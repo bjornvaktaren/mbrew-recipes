@@ -1,0 +1,39 @@
+# Metadata
+Name      "Dark strong"
+Batch     78
+Style     "Belgisk Dark Strong"
+Brewer    "Mikael Mårtensson"
+Brewery   "Hettemarkshuset"
+Date      "2019-11-10"
+
+# Fermentables
+# Name                          Amount (g)   Added
+"Belgisk Alemalt"               2000
+"Mörkt kandisocker"             600          Boil
+"Golden Promise Pale Ale Malt"  750
+"Vinboden Dark Crystal"         50
+
+# Hops
+# Name                   Alpha Acid (%)   Amount (g)   Time (min)
+"Northern Brewer"        6.6              50           60
+
+# Yeast
+# Name                             Temperature (C)   Time (days)
+"WLP530 Abbey Ale"                 22                8
+
+# Mash
+# Name                 Amount Water (l)   Target Temperature (C)   Time (min)
+"Saccharification"     7.0                63                       60
+"Batch sparge"         8.0                73                       0
+"Boil"                 0                  100                      90
+
+# Notes
+"
+Siktade på att mäska in vid 63 C, men det blev 65 C. Jag hade mäskvattnet på eftervärmen medan jag blandade i det och det blev nog lite för varmt. Använde förkultur gjord på 1,2 liter vatten och 100 g torrt maltextrakt.
+"
+
+# Observations
+PreboilVolume      12.0
+PostboilVolume     10.3
+OG                 1.089
+FG                 1.012
