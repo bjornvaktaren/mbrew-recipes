@@ -1,0 +1,49 @@
+# Metadata
+Name      "NEIPA"
+Batch     78
+Style     "NEIPA"
+Brewer    "Mikael Mårtensson"
+Brewery   "Hettemarkshuset"
+Date      "2020-02-08"
+
+# Fermentables
+# Name                          Amount (g)
+"Vinboden Pale Ale Malt"        1200
+"Golden Promise Pale Ale Malt"	200
+"Crisp Best Ale Malt"           660
+"Havre"                         100
+
+# Hops
+# Name       Alpha Acid (%)   Amount (g)   Time (min)
+"Cascade"    5.9              15           60
+"Cascade"    5.9              42.5         0
+"EKG"        5.4              50           0
+"Cascade"    5.9              42.5         0
+"EKG"        5.4              50           0
+
+# Mash
+# Name                 Amount Water (l)   Target Temperature (C)   Time (min)
+"Saccharification"     5                  67                       60
+"Mash out"             0                  76                       10
+"Batch sparge"         10                 76                       0
+"Boil"                 0                  100                      60
+
+# Yeast
+# Name                   Temperature (C)   Time (days)
+"Lallemand New England"  22                8
+
+# Notes
+"
+Hopstand \SI{30}{\min} at \SI{85}{\celsius} with \SI{42.5}{\gram} Cascade and \SI{50}{\gram} EKG. Dry hop with \SI{42.5}{\gram} Cascade and \SI{50}{\gram} EKG at high kreusen. 
+
+Water profile (Enköping): \SI{99}{\milli\gram\per\liter} Ca, \SI{16}{\milli\gram\per\liter} Mg, \SI{25}{\milli\gram\per\liter} Na, \SI{31}{\milli\gram\per\liter} Cl, \SI{51}{\milli\gram\per\liter} SO\textsubscript{4}, \SI{290}{\milli\gram\per\liter} HCO\textsubscript{3}. Treated mash water with \SI{1.2}{\gram} CaSO\textsubscript{4}, \SI{1.95}{\gram} CaCl\textsubscript{2}, and \SI{1.5}{\gram} MgSO\textsubscript{4}.
+
+The mash was completely stuck. I had to stir is vigorously several times. Never buy pre-crushed malt again!
+"
+
+# Observations
+PreboilVolume      12.5
+PostboilVolume     11.3
+PreBoilSG          1.047
+OG                 1.054
+FG                 1.013
