@@ -1,0 +1,46 @@
+# Metadata
+Name      "Rauchweizen"
+Batch     78
+Style     "Rauchweizen"
+Brewer    "Mikael Mårtensson"
+Brewery   "Hettemarkshuset"
+Date      "2020-04-09"
+
+# Fermentables
+# Name                          Amount (g)
+"Ekrökt vetemalt"               1000
+"Bokrökt kornmalt"              1000
+"Caramel Malt (Caraaroma)"      55
+
+# Hops
+# Name       Alpha Acid (%)   Amount (g)   Time (min)
+"Saaz"       3.62             30           60
+
+# Mash
+# Name                   Amount Water (l)   Target Temperature (C)   Time (min)
+"Mash in"                5.5                40                       0
+"Protein rest"           0                  50                       20
+"Decoction 2.4 liter"    0                  70                       15
+"Decoction 2.4 liter"    0                  100                      30
+"Joined mash 1"          0                  65                       10
+"Joined mash 2"          0                  70                       10
+"Mash out"               0                  76                       10
+"Batch sparge"           9.5                76                       0
+"Boil"                   0                  100                      60
+
+# Yeast
+# Name                   Temperature (C)   Time (days)
+"WLP300 Hefeweizen Ale"  21                8
+
+# Notes
+"
+Water profile (Enköping): \SI{99}{\milli\gram\per\liter} Ca, \SI{16}{\milli\gram\per\liter} Mg, \SI{25}{\milli\gram\per\liter} Na, \SI{31}{\milli\gram\per\liter} Cl, \SI{51}{\milli\gram\per\liter} SO\textsubscript{4}, \SI{290}{\milli\gram\per\liter} HCO\textsubscript{3}. Treated mash water with \SI{1.2}{\gram} CaSO\textsubscript{4}, \SI{1.95}{\gram} CaCl\textsubscript{2}, and \SI{1.5}{\gram} MgSO\textsubscript{4}.
+
+"
+
+# Observations
+PreboilVolume      12.5
+PostboilVolume     11.3
+PreBoilSG          1.047
+OG                 1.054
+FG                 1.011

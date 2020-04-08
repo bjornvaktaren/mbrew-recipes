@@ -30,7 +30,7 @@ Date      "2020-02-08"
 
 # Yeast
 # Name                   Temperature (C)   Time (days)
-"Lallemand New England"  22                8
+"Lallemand New England"  21                8
 
 # Notes
 "
@@ -46,4 +46,4 @@ PreboilVolume      12.5
 PostboilVolume     11.3
 PreBoilSG          1.047
 OG                 1.054
-FG                 1.013
+FG                 1.011
