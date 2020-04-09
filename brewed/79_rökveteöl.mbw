@@ -25,7 +25,7 @@ Date      "2020-04-09"
 "Joined mash 1"          0                  65                       10
 "Joined mash 2"          0                  70                       10
 "Mash out"               0                  76                       10
-"Batch sparge"           9.5                76                       0
+"Batch sparge"           9                  76                       0
 "Boil"                   0                  100                      60
 
 # Yeast
@@ -36,11 +36,14 @@ Date      "2020-04-09"
 "
 Water profile (Enköping): \SI{99}{\milli\gram\per\liter} Ca, \SI{16}{\milli\gram\per\liter} Mg, \SI{25}{\milli\gram\per\liter} Na, \SI{31}{\milli\gram\per\liter} Cl, \SI{51}{\milli\gram\per\liter} SO\textsubscript{4}, \SI{290}{\milli\gram\per\liter} HCO\textsubscript{3}. Treated mash water with \SI{1.2}{\gram} CaSO\textsubscript{4}, \SI{1.95}{\gram} CaCl\textsubscript{2}, and \SI{1.5}{\gram} MgSO\textsubscript{4}.
 
+\SI{9.25}{\liter} of deionized water from Frida-Louise.
+
+\SI{2}{\ml} lactic acid in mash. \SI{60}{\g} of rice hulls added at mash out.
+
 "
 
 # Observations
-PreboilVolume      12.5
-PostboilVolume     11.3
-PreBoilSG          1.047
-OG                 1.054
+PreboilVolume      12.1
+PostboilVolume     10.8
+OG                 1.053
 FG                 1.011
