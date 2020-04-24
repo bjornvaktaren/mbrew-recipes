@@ -1,0 +1,47 @@
+# Metadata
+Name      "NEIPA"
+Batch     80
+Style     "NEIPA"
+Brewer    "Mikael Mårtensson"
+Brewery   "Hettemarkshuset"
+Date      "2020-04-24"
+
+# Fermentables
+# Name                          Amount (g)
+"Maris Otter Pale Ale"          2000
+"Havre"                         100
+
+# Hops
+# Name                 Alpha Acid (%)   Amount (g)   Time (min)
+"Citra"                12.8             5            60
+"Citra"                12.8             20           0
+"Mandarina Bavaria"    7.8              20           0
+"Citra"                12.8             40           0
+"Mandarina Bavaria"    7.8              40           0
+"Citra"                12.8             15           0
+"Mandarina Bavaria"    7.8              15           0
+
+# Mash
+# Name                 Amount Water (l)   Target Temperature (C)   Time (min)
+"Saccharification"     5                  67                       60
+"Batch sparge"         9.5                 76                       0
+"Boil"                 0                  100                      60
+
+# Yeast
+# Name                   Temperature (C)   Time (days)
+"Lallemand New England"  21                8
+
+# Notes
+"
+\SI{20}{\gram} additions at flame-out. Hopstand \SI{30}{\min} at \SI{85}{\celsius} with \SI{40}{\gram} of each hop. Dry hop with \SI{15}{\gram} of each hop at high kreusen. 
+
+Water profile (Enköping): \SI{99}{\milli\gram\per\liter} Ca, \SI{16}{\milli\gram\per\liter} Mg, \SI{25}{\milli\gram\per\liter} Na, \SI{31}{\milli\gram\per\liter} Cl, \SI{51}{\milli\gram\per\liter} SO\textsubscript{4}, \SI{290}{\milli\gram\per\liter} HCO\textsubscript{3}. 
+
+Used \SI{9}{\liter} of deionized water from Frida-Louise and the rest from the tap.
+"
+
+# Observations
+PreboilVolume      12.7
+PostboilVolume     11.5
+OG                 1.051
+FG                 1.011
