@@ -1,0 +1,44 @@
+# Metadata
+Name      "Rökvin
+Batch     73
+Style     "Barley Wine"
+Brewer    "Mikael Mårtensson"
+Brewery   "Stabby Brewery"
+Date      "2018-03-04"
+
+# Fermentables
+# Name                          Amount (g)
+"Bokrökt kornmalt"              2000
+"Barke Munchner Malt"           1000
+"Spraymalt Extra Light"         250
+"Rostat korn"                   80
+
+# Hops
+# Name                 Alpha Acid (%)   Amount (g)   Time (min)
+"Mandarina Bavaria"    7.8              26           60
+"Mandarina Bavaria"    6.6              20           60
+"Saaz"                 3.62             20           15
+"Saaz"                 3.62             20           0
+
+# Yeast
+# Name                   Temperature (C)   Time (days)
+"Lallemand Nottingham"   20                8
+
+# Mash
+# Name                 Amount Water (l)   Target Temperature (C)   Time (min)
+"Saccharification"     7                  66                       60
+"Mash out"             0                  76                       10
+"Batch sparge"         9.5                76                       0
+"Boil"                 0                  100                      90
+
+# Notes
+"
+Water profile (Enköping): \SI{99}{\milli\gram\per\liter} Ca, \SI{16}{\milli\gram\per\liter} Mg, \SI{25}{\milli\gram\per\liter} Na, \SI{31}{\milli\gram\per\liter} Cl, \SI{51}{\milli\gram\per\liter} SO\textsubscript{4}, \SI{290}{\milli\gram\per\liter} HCO\textsubscript{3}. Used deionized water for half of the mash and sparge water. Treated mash and sparge water with \SI{1}{\milli\liter} of lactic acid with \SI{80}{\%} concentration.
+
+"
+
+# Observations
+PreboilVolume      12.3
+PostboilVolume     11.0
+OG                 1.079
+FG                 1.012

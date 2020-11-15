@@ -29,11 +29,11 @@ Date      "2020-11-01"
 
 # Notes
 "
-Water profile (Enköping): \SI{99}{\milli\gram\per\liter} Ca, \SI{16}{\milli\gram\per\liter} Mg, \SI{25}{\milli\gram\per\liter} Na, \SI{31}{\milli\gram\per\liter} Cl, \SI{51}{\milli\gram\per\liter} SO\textsubscript{4}, \SI{290}{\milli\gram\per\liter} HCO\textsubscript{3}. Treated mash and sparge water with \SI{0.2}{\milli\liter} of lactic acid with \SI{80}{\%} concentration.
+Water profile (Enköping): \SI{99}{\milli\gram\per\liter} Ca, \SI{16}{\milli\gram\per\liter} Mg, \SI{25}{\milli\gram\per\liter} Na, \SI{31}{\milli\gram\per\liter} Cl, \SI{51}{\milli\gram\per\liter} SO\textsubscript{4}, \SI{290}{\milli\gram\per\liter} HCO\textsubscript{3}. Treated mash and sparge water with \SI{0.2}{\milli\liter\per\liter} of lactic acid with \SI{80}{\%} concentration.
 "
 
 # Observations
 PreboilVolume      12.0
 PostboilVolume     11.5
 OG                 1.043
-FG                 1.011
+FG                 1.014
