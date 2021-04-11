@@ -1,0 +1,44 @@
+# Metadata
+Name      "Dry Stout"
+Batch     83
+Style     "Irish Dry Stout"
+Brewer    "Mikael Mårtensson"
+Brewery   "Hettemarkshuset"
+Date      "2021-03-07"
+
+# Fermentables
+# Name                          Amount (g)
+"Maris Otter Pale Ale"          700
+"Ekrökt vetemalt"               200
+"Vinboden Pale Ale Malt"        100
+"Flaked Torrefied Barley"       260
+"Rostat korn"                   170
+
+
+# Hops
+# Name                 Alpha Acid (%)   Amount (g)   Time (min)
+"East Kent Goldings"   4.84             40           60
+"East Kent Goldings"   4.84             15           15
+
+# Mash
+# Name                 Amount Water (l)   Target Temperature (C)   Time (min)
+"Saccharification"     5                  64                       60
+"Batch sparge"         9.5                76                       0
+"Boil"                 0                  100                      60
+
+# Yeast
+# Name                   Temperature (C)   Time (days)
+"Fermentis Safale S-04"  20                8
+
+# Notes
+"
+Water profile (Enköping): \SI{99}{\milli\gram\per\liter} Ca, \SI{16}{\milli\gram\per\liter} Mg, \SI{25}{\milli\gram\per\liter} Na, \SI{31}{\milli\gram\per\liter} Cl, \SI{51}{\milli\gram\per\liter} SO\textsubscript{4}, \SI{290}{\milli\gram\per\liter} HCO\textsubscript{3}. Treated mash and sparge water with \SI{0.2}{\milli\liter\per\liter} of lactic acid with \SI{80}{\%} concentration.
+
+Mash temp dropped to \SI{59}{\celsius} during saccharification.
+"
+
+# Observations
+PreboilVolume      12.3
+PostboilVolume     11.5
+OG                 1.031
+FG                 1.010

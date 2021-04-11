@@ -1,0 +1,43 @@
+# Metadata
+Name      "Bitter"
+Batch     84
+Style     "Ordinary bitter"
+Brewer    "Mikael Mårtensson"
+Brewery   "Hettemarkshuset"
+Date      "2021-04-10"
+
+# Fermentables
+# Name                          Amount (g)
+"Maris Otter Pale Ale"          1500
+"Crisp Dark Crystal"            50
+"Crisp Light Crystal"           50
+
+# Hops
+# Name                 Alpha Acid (%)   Amount (g)   Time (min)
+"East Kent Goldings"   4.84             30           60
+"Fuggles"              4.63             10           60
+"Fuggles"              4.63             15           15
+"Fuggles"              4.63             15           0
+
+# Mash
+# Name                 Amount Water (l)   Target Temperature (C)   Time (min)
+"Saccharification"     5                  67                       60
+"Batch sparge"         9.5                76                       0
+"Boil"                 0                  100                      60
+
+# Yeast
+# Name                   Temperature (C)   Time (days)
+"WLP023 Burton Ale"      20                8
+
+# Notes
+"
+Vattenprofil i Enköping: \SI{99}{\milli\gram\per\liter} Ca, \SI{16}{\milli\gram\per\liter} Mg, \SI{25}{\milli\gram\per\liter} Na, \SI{31}{\milli\gram\per\liter} Cl, \SI{51}{\milli\gram\per\liter} SO\textsubscript{4}, \SI{290}{\milli\gram\per\liter} HCO\textsubscript{3}. Jag behandlade lak- och mäskvattnet med \SI{0.2}{\milli\liter\per\liter} mjölksyra med \SI{80}{\%} koncentration. Efter \SI{15}{\min} mäskning var pH ca 5.5.
+
+Det var en sten i Maris Otter malten vilket gjorde att hela maltkrossen välte och spilde ut \SI{1,5}{\kg} malt över köksön och golvet när jag krossade malten. Jag fyllde upp med basmalt till rätt totalvikt och duttade på lite mer specialmalt.
+"
+
+# Observations
+PreboilVolume      12.3
+PreboilSG          1.038
+OG                 1.041
+FG                 1.010

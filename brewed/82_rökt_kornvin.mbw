@@ -4,7 +4,7 @@ Batch     73
 Style     "Barley Wine"
 Brewer    "Mikael Mårtensson"
 Brewery   "Stabby Brewery"
-Date      "2018-03-04"
+Date      "2020-11-15"
 
 # Fermentables
 # Name                          Amount (g)
@@ -22,7 +22,7 @@ Date      "2018-03-04"
 
 # Yeast
 # Name                   Temperature (C)   Time (days)
-"Lallemand Nottingham"   20                8
+"Lallemand Nottingham"   23                8
 
 # Mash
 # Name                 Amount Water (l)   Target Temperature (C)   Time (min)
@@ -35,10 +35,11 @@ Date      "2018-03-04"
 "
 Water profile (Enköping): \SI{99}{\milli\gram\per\liter} Ca, \SI{16}{\milli\gram\per\liter} Mg, \SI{25}{\milli\gram\per\liter} Na, \SI{31}{\milli\gram\per\liter} Cl, \SI{51}{\milli\gram\per\liter} SO\textsubscript{4}, \SI{290}{\milli\gram\per\liter} HCO\textsubscript{3}. Used deionized water for half of the mash and sparge water. Treated mash and sparge water with \SI{1}{\milli\liter} of lactic acid with \SI{80}{\%} concentration.
 
+Temperature ranged from \SI{23}{\celsius} to \SI{27}{\celsius} (!) inside the fermenter. The ambient temperature was \SI{20}{\celsius}.
 "
 
 # Observations
 PreboilVolume      12.3
 PostboilVolume     11.0
 OG                 1.079
-FG                 1.012
+FG                 1.021
