@@ -1,0 +1,47 @@
+# Metadata
+Name      "Skåprensare"
+Batch     86
+Style     "?"
+Brewer    "Mikael Mårtensson"
+Brewery   "Norra Fridhemsvägen"
+Date      "2022-02-20"
+
+# Fermentables
+# Name                          Amount (g)
+"Maris Otter Pale Ale"          800
+"Ekrökt vetemalt"               800
+"Crisp Dark Crystal"            100
+"Crisp Light Crystal"           100
+"Crisp Chocolate Malt"          100
+"Rostat korn"                   200
+"Flaked Torrefied Barley"       300
+
+# Hops
+# Name       Alpha Acid (%)   Amount (g)   Time (min)
+"Citra"      12.8             20           60
+"Saaz"       3.32             28           60
+"Fuggle"     4.63             15           15
+"Fuggle"     4.63             15           0
+
+# Mash
+# Name                 Amount Water (l)   Target Temperature (C)   Time (min)
+"Saccharification"     5.5                64                       60
+"Mash out"             0                  76                       10
+"Batch sparge"         9.5                76                       0
+"Boil"                 0                  100                      60
+
+# Yeast
+# Name                   Temperature (C)   Time (days)
+"Lallemand Windsor"       18               1
+"Lallemand Windsor"       19               1
+
+# Notes
+"0,05 g/l CaSO4, 0,1 g/l CaCl2, 0,1 g/l MgSO4
+
+"
+
+# Observations
+PreboilVolume      11.8
+PostboilVolume     10.7
+OG                 1.057
+FG                 1.010

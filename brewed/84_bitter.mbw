@@ -27,17 +27,19 @@ Date      "2021-04-10"
 
 # Yeast
 # Name                   Temperature (C)   Time (days)
-"WLP023 Burton Ale"      20                8
+"WLP023 Burton Ale"      23                8
 
 # Notes
 "
 Vattenprofil i Enköping: \SI{99}{\milli\gram\per\liter} Ca, \SI{16}{\milli\gram\per\liter} Mg, \SI{25}{\milli\gram\per\liter} Na, \SI{31}{\milli\gram\per\liter} Cl, \SI{51}{\milli\gram\per\liter} SO\textsubscript{4}, \SI{290}{\milli\gram\per\liter} HCO\textsubscript{3}. Jag behandlade lak- och mäskvattnet med \SI{0.2}{\milli\liter\per\liter} mjölksyra med \SI{80}{\%} koncentration. Efter \SI{15}{\min} mäskning var pH ca 5.5.
 
 Det var en sten i Maris Otter malten vilket gjorde att hela maltkrossen välte och spilde ut \SI{1,5}{\kg} malt över köksön och golvet när jag krossade malten. Jag fyllde upp med basmalt till rätt totalvikt och duttade på lite mer specialmalt.
+
+Primade med sockerlösning av \SI{65}{\gram} socker som jag spädde med vatten till \SI{100}{\deci\liter} och använde knappt \SI{6}{\milli\liter\per\liter}.
 "
 
 # Observations
 PreboilVolume      12.3
 PreboilSG          1.038
 OG                 1.041
-FG                 1.010
+FG                 1.012
