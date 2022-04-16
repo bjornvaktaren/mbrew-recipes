@@ -1,0 +1,46 @@
+# Metadata
+Name      "Brown"
+Batch     85
+Style     "Northern English Brown"
+Brewer    "Mikael Mårtensson"
+Brewery   "Hettemarkshuset"
+Date      "2021-04-22"
+
+# Fermentables
+# Name                          Amount (g)
+"Maris Otter Pale Ale"          1800
+"Crisp Dark Crystal"            100
+"Crisp Light Crystal"           100
+"Crisp Chocolate Malt"          50
+
+# Hops
+# Name                 Alpha Acid (%)   Amount (g)   Time (min)
+"Fuggles"              4.63             27           60
+
+# Mash
+# Name                 Amount Water (l)   Target Temperature (C)   Time (min)
+"Saccharification"     5                  67                       60
+"Batch sparge"         9.5                76                       0
+"Boil"                 0                  100                      60
+
+# Yeast
+# Name                   Temperature (C)   Time (days)
+"WLP023 Burton Ale"      22                14
+
+# Notes
+"
+Vattenprofil i Enköping: \SI{99}{\milli\gram\per\liter} Ca, \SI{16}{\milli\gram\per\liter} Mg, \SI{25}{\milli\gram\per\liter} Na, \SI{31}{\milli\gram\per\liter} Cl, \SI{51}{\milli\gram\per\liter} SO\textsubscript{4}, \SI{290}{\milli\gram\per\liter} HCO\textsubscript{3}. Jag behandlade lak- och mäskvattnet med \SI{0.2}{\milli\liter\per\liter} mjölksyra med \SI{80}{\%} koncentration. Jag behandlade mäskvattnet med \SI{3.5}{\ml} $\textrm{CaCl}_2$ med \SI{33}{\%} koncentration för att få upp kloridhalten och få en maltigare profil. Jag siktade på ett klorid-sulfat-förhållande på 1,4. 
+
+Efter \SI{15}{\min} mäskning var pH ca 5.5.
+
+Jästen var toppskördad från batch 84 och uppodlad med med en förkultur på en liter.
+
+Primade med sockerlösning av \SI{65}{\gram} socker som jag spädde med vatten till \SI{100}{\deci\liter} och använde knappt \SI{6}{\milli\liter\per\liter}. Smakade och luktade riktigt jävla gott direkt från järskärlet.
+
+
+"
+
+# Observations
+PreboilVolume      12.3
+OG                 1.053
+FG                 1.017
