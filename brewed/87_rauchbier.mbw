@@ -1,0 +1,41 @@
+# Metadata
+Name      "Speciell rököl"
+Batch     87
+Style     "Rauchbier"
+Brewer    "Mikael Mårtensson"
+Brewery   "Hettemarkshuset"
+Date      "2022-04-15"
+
+# Fermentables
+# Name                          Amount (g)
+"Balder pilsnermalt"            1000
+"Alrökt balder pilsnermalt"     1000
+
+# Hops
+# Name                    Alpha Acid (%)   Amount (g)   Time (min)
+"Hallertauer mittelfrüh"  4.9              40           60
+"Hallertauer mittelfrüh"  4.9              10           2
+
+# Mash
+# Name                 Amount Water (l)   Target Temperature (C)   Time (min)
+"Saccharification"     5                  68                       60
+"Batch sparge"         9                  76                       0
+"Boil"                 0                  100                      60
+
+# Yeast
+# Name                   Temperature (C)   Time (days)
+"Bavarian Lager M76"     8                 8
+
+# Notes
+"
+Rökte 1 kg av malten med kallröksspiral. Malten var i en ugnsform brevid röken i en gasolgrill. Rökte i 12 timmar, två omgångar på spiralen. Andra omgången fuktade jag malten, vilket jag upplevde gjorde att röken satte sig bättre. Men det blev mindre rökigt än Weyermanns rökmalt ändå.
+
+Tillsatte \SI{0.08}{\gram\per\liter} CaSO4 och \SI{0.12}{\gram\per\liter} CaCl2.
+
+"
+
+# Observations
+PreboilVolume      11.5
+PostboilVolume     10.0
+OG                 1.047
+FG                 1.010
