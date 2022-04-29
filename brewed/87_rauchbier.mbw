@@ -24,7 +24,13 @@ Date      "2022-04-15"
 
 # Yeast
 # Name                   Temperature (C)   Time (days)
-"Bavarian Lager M76"     8                 8
+"Bavarian Lager M76"     9                 1
+"Bavarian Lager M76"     10                1
+"Bavarian Lager M76"     11                1
+"Bavarian Lager M76"     12                1
+"Bavarian Lager M76"     13                1
+"Bavarian Lager M76"     12                1
+"Bavarian Lager M76"     22                6
 
 # Notes
 "
@@ -32,10 +38,11 @@ Rökte 1 kg av malten med kallröksspiral. Malten var i en ugnsform brevid röke
 
 Tillsatte \SI{0.08}{\gram\per\liter} CaSO4 och \SI{0.12}{\gram\per\liter} CaCl2.
 
+Kylde ner vörten ner till \SI{14}{\celsius} och ställde ut i garaget som höll strax under \SI{8}{\celsius}. Jäsningen kom långsamt igång efter 2 dagar. Mätte jästemperatur i ölen. Upptappning 2022-04-27.
 "
 
 # Observations
 PreboilVolume      11.5
 PostboilVolume     10.0
 OG                 1.047
-FG                 1.010
+FG                 1.011
